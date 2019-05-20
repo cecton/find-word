@@ -1,0 +1,8 @@
+[package]
+name = "find-word"
+version = "0.1.0"
+authors = ["Cecile Tonglet <cecile.tonglet@cecton.com>"]
+edition = "2018"
+
+[dependencies]
+unidecode = "0.3.0"
